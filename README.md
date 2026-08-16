@@ -132,7 +132,6 @@ AI Workflows
 React Native
 Cloud Architecture
 System Design
-Advanced AWS
 ```
 
 ---
