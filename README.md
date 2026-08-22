@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avishek </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Agentic+AI+Explorer;React+Native+Developer;Building+Scalable+Applications;Building+Cool+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Agentic+AI+Explorer;React++Developer;Building+Scalable+Applications;Building+Cool+Things+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
