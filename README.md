@@ -95,12 +95,6 @@
 
 ---
 
-### 📈 Contribution Graph:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avishekgupta4518&theme=chartreuse-dark)
-
----
-
 ### ⚡ Fun Fact:
 - I love coding like Ninja 🥷and debugging like Sherlock Holmes 🕵️
 
