@@ -16,7 +16,6 @@
     <td>
       <ul>
         <li>📘 I'm currently pursuing Bachelors in <strong>Computer Engineering</strong> at <strong>IOE Purwanchal Campus Dharan</strong></li>
-        <li>👨‍💻 I’m a <strong>Web Developer</strong> actively working on various projects</li>
         <li>🛠️ Love programming and creating <strong>scalable software products</strong></li>
         <li>🔥 Exploring the intersection of <strong>AI</strong>, <strong>Cloud</strong>, and <strong>Development</strong></li>
         <li>🌍 Passionate about learning new <strong>Technology</strong></li>
